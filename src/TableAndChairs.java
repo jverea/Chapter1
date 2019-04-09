@@ -20,6 +20,7 @@ public class TableAndChairs {
         System.out.println("I        I   G");
         System.out.println("R        R   !");
 
+        System.out.println ("Look Mom! I can Comment To Someting,hahaha I Was Talking About Git Hub.")
 
     }
 }
