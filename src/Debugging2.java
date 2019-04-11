@@ -1,6 +1,4 @@
-public class debugging2
-{
-    /* This program displays some output*/
+public class Debugging2 {
     public static void main(String[] args)
     {
         System.out.println("Java programming is fun.");
